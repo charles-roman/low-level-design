@@ -25,6 +25,7 @@ An **object** (also known as an *entity*) is an **instance** of a class. When an
   - [Dependency Injection](#dependency-injection)
 
 ### 👉 **Example:**
+---
 
 ![ERROR: IMAGE NOT FOUND](../../images/dog-class-example1.JPG)
 
