@@ -81,9 +81,9 @@ An **object** (also known as an *entity*) is an **instance** of a class. When an
 
 👉 **Example:**
 
-![ERROR: IMAGE NOT FOUND](images/dog-class-example1.jpg)
+![ERROR: IMAGE NOT FOUND](images/dog-class-example1.JPG)
 
-![ERROR: IMAGE NOT FOUND](images/dog-class-example2.jpg)
+![ERROR: IMAGE NOT FOUND](images/dog-class-example2.JPG)
 
 ### Attributes and Methods
 ---
