@@ -6,7 +6,7 @@ This repo contains an overview of several fundamental topics in low-level (syste
 
 ## Resources
 
-[Design Patterns, Elements of Reusable Object-Oriented Software, 1st Ed.]([https://example.com](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612))
+[Design Patterns, Elements of Reusable Object-Oriented Software, 1st Ed.](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
 ## Table of Contents
 
