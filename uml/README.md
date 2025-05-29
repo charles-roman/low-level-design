@@ -1,6 +1,6 @@
-# UML Diagrams
+# Unified Modeling Language (UML)
 
-**UML (Unified Modeling Language) diagrams** are standardized visual representations of a software system’s structure and behavior. They help developers **communicate design ideas**, **document systems**, and **plan architectures** before or during implementation.
+**Unified Modeling Language (UML) diagrams** are standardized visual representations of a software system’s structure and behavior. They help developers **communicate design ideas**, **document systems**, and **plan architectures** before or during implementation.
 
 UML diagrams are especially useful in **object-oriented design**, making it easier to model relationships between classes, components, and interactions.
 
