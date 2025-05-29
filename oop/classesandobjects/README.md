@@ -1,4 +1,4 @@
-## Classes & Objects
+# Classes & Objects
 
 A **class** is a *blueprint* or *template* for creating objects. It defines the **properties** (also known as *attributes*, *fields*, or *data members*) and **behaviors** (also known as *methods*, *operations*, or *member functions*) that the objects created from the class will have. Classes essentially allow for the creation of **custom types**.
 
