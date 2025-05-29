@@ -79,6 +79,8 @@ A **class** is a *blueprint* or *template* for creating objects. It defines the 
 
 An **object** (also known as an *entity*) is an **instance** of a class. When an object is created from a class, we say it was *instantiated* from that class. Objects typically represent things from the real world but can be anything you want to store and process data about.
 
+---
+
 👉 **Example:**
 
 ![ERROR: IMAGE NOT FOUND](images/dog-class-example1.JPG)
