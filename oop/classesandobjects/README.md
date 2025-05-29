@@ -38,14 +38,26 @@ An **object** (also known as an *entity*) is an **instance** of a class. When an
 #### Instance vs Class Methods
 ---
 #### Validating Attributes
+
+(pre/post conditions / invariants?)
+
 ---
 #### Mutability
 ---
 #### Access Modifiers
+
+(languages implement these differently (i.e. c++ vs python))
+
 ---
 #### Properties, Getters & Setters
+
+(sometimes referred to as accessors & mutators)
+
 ---
 #### Special Methods
+
+(sometimes referred to as magic methods / dunder methods)
+
 ---
 ##### Constructor
 ##### Copy Constructor
