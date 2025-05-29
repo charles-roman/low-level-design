@@ -4,6 +4,10 @@
 
 This repo contains an overview of several fundamental topics in low-level (system) design (LLD) / Object-Oriented Design (OOD) along with simple and practical examples in C++.
 
+## Resources
+
+[Design Patterns, Elements of Reusable Object-Oriented Software, 1st Ed.]([https://example.com](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612))
+
 ## Table of Contents
 
 - [Composite Data Structures / PODs](#composite-data-structures-pods)
