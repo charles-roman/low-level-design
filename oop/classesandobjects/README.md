@@ -5,9 +5,26 @@ A **class** is a *blueprint* or *template* for creating objects. It defines the 
 An **object** (also known as an *entity*) is an **instance** of a class. When an object is created from a class, we say it was *instantiated* from that class. Objects typically represent things from the real world but can be anything you want to store and process data about.
 
 ## Table of Contents
+  - [Class Example](#-example)
+  - [Attributes and Methods](#attributes-and-methods)
+    - [Instance vs Class Attributes](#instance-vs-class-attributes)
+    - [Instance vs Class Methods](#instance-vs-class-methods)
+    - [Validating Attributes](#validating-attributes)
+    - [Mutability](#mutability)
+    - [Access Modifiers](#access-modifiers)
+    - [Properties, Getters & Setters](#properties-getters--setters)
+    - [Special Methods](#special-methods)
+      - [Constructor](#constructor)
+      - [Copy Constructor](#copy-constructor)
+        - [Shallow Copy vs Deep Copy](#shallow-copy-vs-deep-copy)
+      - [Destructor](#destructor)
+      - [Operator Overloading](#operator-overloading)
+  - [Object Instantiation and Modification](#object-instantiation-and-modification)
+  - [Interface vs Implementation](#interface-vs-implementation)
+  - [Abstract Classes](#abstract-classes)
+  - [Dependency Injection](#dependency-injection)
 
-
-👉 **Example:**
+### 👉 **Example:**
 
 ![ERROR: IMAGE NOT FOUND](../../images/dog-class-example1.JPG)
 
@@ -16,25 +33,30 @@ An **object** (also known as an *entity*) is an **instance** of a class. When an
 ### Attributes and Methods
 ---
 #### Instance vs Class Attributes
+---
 #### Instance vs Class Methods
-### Validating Attributes
 ---
-### Mutability
+#### Validating Attributes
 ---
-### Properties, Getters & Setters
+#### Mutability
 ---
-### Access Modifiers
+#### Access Modifiers
 ---
-### Special Methods
+#### Properties, Getters & Setters
 ---
-#### Constructor
-#### Copy Constructor
-##### Shallow Copy vs Deep Copy
-#### Destructor
-#### Operator Overloading
-### Interface vs Implementation
+#### Special Methods
+---
+##### Constructor
+##### Copy Constructor
+###### Shallow Copy vs Deep Copy
+##### Destructor
+##### Operator Overloading
+
+### Object Instantiation and Modification
 ---
 
+### Interface vs Implementation
+---
 The **interface** includes the properties and methods a program (or programmer) can interact with.
 
 The **implementation** consists of the internal logic—data structures and methods—that work behind the scenes  
