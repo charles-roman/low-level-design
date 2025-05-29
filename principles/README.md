@@ -4,9 +4,9 @@ Design principles are general guidelines that help developers create software th
 
 At the **low-level**, these principles focus on the structure and interaction of classes, functions, and modules — shaping the way individual components are written and how they collaborate.
 
-- [SOLID](solid/README.md)
-- [DRY](dry/README.md)
-- [KISS](kiss/README.md)
-- [YAGNI](yagni/README.md)
-- [LoD](lod/README.md)
-- Composition over Inheritance
+- [**SOLID**](solid/README.md)
+- [**DRY**](dry/README.md)
+- [**KISS**](kiss/README.md)
+- [**YAGNI**](yagni/README.md)
+- [**LoD**](lod/README.md)
+- **Composition over Inheritance**
