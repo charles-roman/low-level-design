@@ -27,15 +27,17 @@ This repo contains an overview of several fundamental topics in low-level (syste
         - [Shallow Copy vs Deep Copy](#shallow-copy-vs-deep-copy)
       - [Destructor](#destructor)
       - [Operator Overloading](#operator-overloading)
-  - [Interface vs Implementation](#interface-vs-implementation)
-  - [Abstract Classes](#abstract-classes)
-  - [Dependency Injection](#dependency-injection)
+      - Object Instantiation and Modification
+    - [Interface vs Implementation](#interface-vs-implementation)
+    - [Abstract Classes](#abstract-classes)
+    - [Dependency Injection](#dependency-injection)
+    
   - Fundamental Concepts
     - [Encapsulation](#encapsulation)
     - [Abstraction](#abstraction)
     - [Inheritance](#inheritance)
     - [Polymorphism](#polymorphism)
-      - [Compile-Time Polymorphism vs Run-Time Polymorphism](#compile-time-polymorphism-vs-run-time-polymorphism)
+      - [Compile-Time vs Run-Time](#compile-time-vs-run-time)
 
 - Design Principles
   - [SOLID](#solid)
@@ -188,7 +190,7 @@ Simply put, it is the ability of **different objects to respond to the same func
 
 ---
 
-### Compile-Time Polymorphism vs Run-Time Polymorphism
+### Compile-Time vs Run-Time
 
 Compiled languages can differentiate between **compile-time polymorphism** (also called *static polymorphism*)  
 and **run-time polymorphism** (also called *dynamic polymorphism*).
