@@ -11,4 +11,4 @@
 
 > A common example of **encapsulation** is restricting access to object properties, allowing them to be accessed or modified only through methods (**getters** and **setters**) defined in the interface.
 
-![ERROR: IMAGE NOT FOUND](../../images/encapsulation-example.jpg)
+![ERROR: IMAGE NOT FOUND](../../images/encapsulation-example.JPG)
